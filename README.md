@@ -18,4 +18,4 @@ _TODO_
 >
 > ——《Clannad》
 
-![](img\image.png)
+![Clannad](img\image.png)
