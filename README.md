@@ -18,4 +18,4 @@ _TODO_
 >
 > ——《Clannad》
 
-![Clannad](img\image.png)
+![Clannad](https://raw.githubusercontent.com/2311719626/NoteBook/main/img/image.png)
